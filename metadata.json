@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio Management System",
+  "description": "Aplikasi Web Portfolio dan Sistem Manajemen Admin (Dashboard & CMS) responsif dengan data proyek, skill, pendidikan, pengalaman, sertifikat, dan kontak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
